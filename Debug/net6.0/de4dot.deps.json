@@ -1,0 +1,130 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "de4dot/3.1.41592.3405": {
+        "dependencies": {
+          "de4dot.cui": "3.1.41592.3405",
+          "dnlib": "4.4.0"
+        },
+        "runtime": {
+          "de4dot.dll": {}
+        }
+      },
+      "dnlib/4.4.0": {
+        "runtime": {
+          "lib/net6.0/dnlib.dll": {
+            "assemblyVersion": "4.4.0.0",
+            "fileVersion": "4.4.0.0"
+          }
+        }
+      },
+      "AssemblyData/3.1.41592.3405": {
+        "dependencies": {
+          "de4dot.blocks": "3.1.41592.3405",
+          "de4dot.mdecrypt": "3.1.41592.3405",
+          "dnlib": "4.4.0"
+        },
+        "runtime": {
+          "AssemblyData.dll": {
+            "assemblyVersion": "3.1.41592.3405",
+            "fileVersion": "3.1.41592.3405"
+          }
+        }
+      },
+      "de4dot.blocks/3.1.41592.3405": {
+        "dependencies": {
+          "dnlib": "4.4.0"
+        },
+        "runtime": {
+          "de4dot.blocks.dll": {
+            "assemblyVersion": "3.1.41592.3405",
+            "fileVersion": "3.1.41592.3405"
+          }
+        }
+      },
+      "de4dot.code/3.1.41592.3405": {
+        "dependencies": {
+          "AssemblyData": "3.1.41592.3405",
+          "de4dot.blocks": "3.1.41592.3405",
+          "de4dot.mdecrypt": "3.1.41592.3405",
+          "dnlib": "4.4.0"
+        },
+        "runtime": {
+          "de4dot.code.dll": {
+            "assemblyVersion": "3.1.41592.3405",
+            "fileVersion": "3.1.41592.3405"
+          }
+        }
+      },
+      "de4dot.cui/3.1.41592.3405": {
+        "dependencies": {
+          "de4dot.blocks": "3.1.41592.3405",
+          "de4dot.code": "3.1.41592.3405",
+          "dnlib": "4.4.0"
+        },
+        "runtime": {
+          "de4dot.cui.dll": {
+            "assemblyVersion": "3.1.41592.3405",
+            "fileVersion": "3.1.41592.3405"
+          }
+        }
+      },
+      "de4dot.mdecrypt/3.1.41592.3405": {
+        "dependencies": {
+          "de4dot.blocks": "3.1.41592.3405",
+          "dnlib": "4.4.0"
+        },
+        "runtime": {
+          "de4dot.mdecrypt.dll": {
+            "assemblyVersion": "3.1.41592.3405",
+            "fileVersion": "3.1.41592.3405"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "de4dot/3.1.41592.3405": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "dnlib/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cKHI720q+zfEEvzklWVGt6B0TH3AibAyJbpUJl4U6KvTP13tycfnqJpkGHRZ/oQ45BTIoIxIwltHIJVDN+iCqQ==",
+      "path": "dnlib/4.4.0",
+      "hashPath": "dnlib.4.4.0.nupkg.sha512"
+    },
+    "AssemblyData/3.1.41592.3405": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "de4dot.blocks/3.1.41592.3405": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "de4dot.code/3.1.41592.3405": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "de4dot.cui/3.1.41592.3405": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "de4dot.mdecrypt/3.1.41592.3405": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

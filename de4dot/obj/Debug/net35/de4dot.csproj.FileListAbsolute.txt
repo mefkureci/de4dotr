@@ -1,0 +1,14 @@
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net35\de4dot.exe.config
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net35\de4dot.exe
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net35\de4dot.pdb
+C:\Users\root\source\repos\de4dot - Kopya\de4dot\obj\Debug\net35\de4dot.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\de4dot - Kopya\de4dot\obj\Debug\net35\de4dot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\de4dot - Kopya\de4dot\obj\Debug\net35\de4dot.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\de4dot - Kopya\de4dot\obj\Debug\net35\de4dot.AssemblyInfo.cs
+C:\Users\root\source\repos\de4dot - Kopya\de4dot\obj\Debug\net35\de4dot.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\de4dot - Kopya\de4dot\obj\Debug\net35\de4dot.sourcelink.json
+C:\Users\root\source\repos\de4dot - Kopya\de4dot\obj\Debug\net35\de4dot.csproj.Up2Date
+C:\Users\root\source\repos\de4dot - Kopya\de4dot\obj\Debug\net35\de4dot.exe
+C:\Users\root\source\repos\de4dot - Kopya\de4dot\obj\Debug\net35\de4dot.pdb
+C:\Users\root\source\repos\de4dot - Kopya\de4dot\obj\Debug\net35\de4dot.csproj.SuggestedBindingRedirects.cache
+C:\Users\root\source\repos\de4dot - Kopya\de4dot\obj\Debug\net35\de4dot.exe.config

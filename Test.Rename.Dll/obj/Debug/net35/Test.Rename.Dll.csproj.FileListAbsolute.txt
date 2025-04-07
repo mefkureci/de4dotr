@@ -1,0 +1,21 @@
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net35\Test.Rename.Dll.dll
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net35\Test.Rename.Dll.pdb
+C:\Users\root\source\repos\de4dot - Kopya\Test.Rename.Dll\obj\Debug\net35\Test.Rename.Dll.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\de4dot - Kopya\Test.Rename.Dll\obj\Debug\net35\Test.Rename.Dll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\de4dot - Kopya\Test.Rename.Dll\obj\Debug\net35\Test.Rename.Dll.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\de4dot - Kopya\Test.Rename.Dll\obj\Debug\net35\Test.Rename.Dll.AssemblyInfo.cs
+C:\Users\root\source\repos\de4dot - Kopya\Test.Rename.Dll\obj\Debug\net35\Test.Rename.Dll.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\de4dot - Kopya\Test.Rename.Dll\obj\Debug\net35\Test.Rename.Dll.sourcelink.json
+C:\Users\root\source\repos\de4dot - Kopya\Test.Rename.Dll\obj\Debug\net35\Test.Rename.Dll.dll
+C:\Users\root\source\repos\de4dot - Kopya\Test.Rename.Dll\obj\Debug\net35\Test.Rename.Dll.pdb
+C:\Users\root\source\repos\de4dot\Debug\net35\Test.Rename.Dll.dll
+C:\Users\root\source\repos\de4dot\Debug\net35\Test.Rename.Dll.pdb
+C:\Users\root\source\repos\de4dot\Test.Rename.Dll\obj\Debug\net35\Test.Rename.Dll.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\de4dot\Test.Rename.Dll\obj\Debug\net35\Test.Rename.Dll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\de4dot\Test.Rename.Dll\obj\Debug\net35\Test.Rename.Dll.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\de4dot\Test.Rename.Dll\obj\Debug\net35\Test.Rename.Dll.AssemblyInfo.cs
+C:\Users\root\source\repos\de4dot\Test.Rename.Dll\obj\Debug\net35\Test.Rename.Dll.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\de4dot\Test.Rename.Dll\obj\Debug\net35\Test.Rename.Dll.sourcelink.json
+C:\Users\root\source\repos\de4dot\Test.Rename.Dll\obj\Debug\net35\Test.Ren.7FE454DF.Up2Date
+C:\Users\root\source\repos\de4dot\Test.Rename.Dll\obj\Debug\net35\Test.Rename.Dll.dll
+C:\Users\root\source\repos\de4dot\Test.Rename.Dll\obj\Debug\net35\Test.Rename.Dll.pdb

@@ -1,0 +1,529 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.cui\\de4dot.cui.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\root\\source\\repos\\de4dot\\AssemblyData\\AssemblyData.csproj": {
+      "version": "3.1.41592.3405",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\root\\source\\repos\\de4dot\\AssemblyData\\AssemblyData.csproj",
+        "projectName": "AssemblyData",
+        "projectPath": "C:\\Users\\root\\source\\repos\\de4dot\\AssemblyData\\AssemblyData.csproj",
+        "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\root\\source\\repos\\de4dot\\AssemblyData\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "centralPackageVersionsManagementEnabled": true,
+        "CentralPackageTransitivePinningEnabled": true,
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net35",
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\program files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net35": {
+            "targetAlias": "net35",
+            "projectReferences": {
+              "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.blocks\\de4dot.blocks.csproj": {
+                "projectPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.blocks\\de4dot.blocks.csproj"
+              },
+              "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.mdecrypt\\de4dot.mdecrypt.csproj": {
+                "projectPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.mdecrypt\\de4dot.mdecrypt.csproj"
+              }
+            }
+          },
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {
+              "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.blocks\\de4dot.blocks.csproj": {
+                "projectPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.blocks\\de4dot.blocks.csproj"
+              },
+              "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.mdecrypt\\de4dot.mdecrypt.csproj": {
+                "projectPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.mdecrypt\\de4dot.mdecrypt.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1507"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net35": {
+          "targetAlias": "net35",
+          "dependencies": {
+            "dnlib": {
+              "target": "Package",
+              "version": "[4.4.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "dnlib": "4.4.0",
+            "System.Drawing.Common": "4.7.0"
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+        },
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "dnlib": {
+              "target": "Package",
+              "version": "[4.4.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "dnlib": "4.4.0",
+            "System.Drawing.Common": "4.7.0"
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.blocks\\de4dot.blocks.csproj": {
+      "version": "3.1.41592.3405",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.blocks\\de4dot.blocks.csproj",
+        "projectName": "de4dot.blocks",
+        "projectPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.blocks\\de4dot.blocks.csproj",
+        "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.blocks\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "centralPackageVersionsManagementEnabled": true,
+        "CentralPackageTransitivePinningEnabled": true,
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net35",
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\program files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net35": {
+            "targetAlias": "net35",
+            "projectReferences": {}
+          },
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1507"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net35": {
+          "targetAlias": "net35",
+          "dependencies": {
+            "dnlib": {
+              "target": "Package",
+              "version": "[4.4.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "dnlib": "4.4.0",
+            "System.Drawing.Common": "4.7.0"
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+        },
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "dnlib": {
+              "target": "Package",
+              "version": "[4.4.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "dnlib": "4.4.0",
+            "System.Drawing.Common": "4.7.0"
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.code\\de4dot.code.csproj": {
+      "version": "3.1.41592.3405",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.code\\de4dot.code.csproj",
+        "projectName": "de4dot.code",
+        "projectPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.code\\de4dot.code.csproj",
+        "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.code\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "centralPackageVersionsManagementEnabled": true,
+        "CentralPackageTransitivePinningEnabled": true,
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net35",
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\program files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net35": {
+            "targetAlias": "net35",
+            "projectReferences": {
+              "C:\\Users\\root\\source\\repos\\de4dot\\AssemblyData\\AssemblyData.csproj": {
+                "projectPath": "C:\\Users\\root\\source\\repos\\de4dot\\AssemblyData\\AssemblyData.csproj"
+              },
+              "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.blocks\\de4dot.blocks.csproj": {
+                "projectPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.blocks\\de4dot.blocks.csproj"
+              },
+              "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.mdecrypt\\de4dot.mdecrypt.csproj": {
+                "projectPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.mdecrypt\\de4dot.mdecrypt.csproj"
+              }
+            }
+          },
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {
+              "C:\\Users\\root\\source\\repos\\de4dot\\AssemblyData\\AssemblyData.csproj": {
+                "projectPath": "C:\\Users\\root\\source\\repos\\de4dot\\AssemblyData\\AssemblyData.csproj"
+              },
+              "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.blocks\\de4dot.blocks.csproj": {
+                "projectPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.blocks\\de4dot.blocks.csproj"
+              },
+              "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.mdecrypt\\de4dot.mdecrypt.csproj": {
+                "projectPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.mdecrypt\\de4dot.mdecrypt.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1507"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net35": {
+          "targetAlias": "net35",
+          "dependencies": {
+            "dnlib": {
+              "target": "Package",
+              "version": "[4.4.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "dnlib": "4.4.0",
+            "System.Drawing.Common": "4.7.0"
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+        },
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "dnlib": {
+              "target": "Package",
+              "version": "[4.4.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "dnlib": "4.4.0",
+            "System.Drawing.Common": "4.7.0"
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.cui\\de4dot.cui.csproj": {
+      "version": "3.1.41592.3405",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.cui\\de4dot.cui.csproj",
+        "projectName": "de4dot.cui",
+        "projectPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.cui\\de4dot.cui.csproj",
+        "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.cui\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "centralPackageVersionsManagementEnabled": true,
+        "CentralPackageTransitivePinningEnabled": true,
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net35",
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\program files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net35": {
+            "targetAlias": "net35",
+            "projectReferences": {
+              "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.blocks\\de4dot.blocks.csproj": {
+                "projectPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.blocks\\de4dot.blocks.csproj"
+              },
+              "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.code\\de4dot.code.csproj": {
+                "projectPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.code\\de4dot.code.csproj"
+              }
+            }
+          },
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {
+              "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.blocks\\de4dot.blocks.csproj": {
+                "projectPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.blocks\\de4dot.blocks.csproj"
+              },
+              "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.code\\de4dot.code.csproj": {
+                "projectPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.code\\de4dot.code.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1507"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net35": {
+          "targetAlias": "net35",
+          "dependencies": {
+            "dnlib": {
+              "target": "Package",
+              "version": "[4.4.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "dnlib": "4.4.0",
+            "System.Drawing.Common": "4.7.0"
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+        },
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "dnlib": {
+              "target": "Package",
+              "version": "[4.4.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "dnlib": "4.4.0",
+            "System.Drawing.Common": "4.7.0"
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.mdecrypt\\de4dot.mdecrypt.csproj": {
+      "version": "3.1.41592.3405",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.mdecrypt\\de4dot.mdecrypt.csproj",
+        "projectName": "de4dot.mdecrypt",
+        "projectPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.mdecrypt\\de4dot.mdecrypt.csproj",
+        "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.mdecrypt\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "centralPackageVersionsManagementEnabled": true,
+        "CentralPackageTransitivePinningEnabled": true,
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net35",
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\program files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net35": {
+            "targetAlias": "net35",
+            "projectReferences": {
+              "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.blocks\\de4dot.blocks.csproj": {
+                "projectPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.blocks\\de4dot.blocks.csproj"
+              }
+            }
+          },
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {
+              "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.blocks\\de4dot.blocks.csproj": {
+                "projectPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.blocks\\de4dot.blocks.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1507"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net35": {
+          "targetAlias": "net35",
+          "dependencies": {
+            "dnlib": {
+              "target": "Package",
+              "version": "[4.4.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "dnlib": "4.4.0",
+            "System.Drawing.Common": "4.7.0"
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+        },
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "dnlib": {
+              "target": "Package",
+              "version": "[4.4.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "dnlib": "4.4.0",
+            "System.Drawing.Common": "4.7.0"
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

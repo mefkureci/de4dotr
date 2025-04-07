@@ -1,0 +1,21 @@
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net45\de4dot.cui.dll
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net45\de4dot.cui.pdb
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.cui\obj\Debug\net45\de4dot.cui.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.cui\obj\Debug\net45\de4dot.cui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.cui\obj\Debug\net45\de4dot.cui.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.cui\obj\Debug\net45\de4dot.cui.AssemblyInfo.cs
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.cui\obj\Debug\net45\de4dot.cui.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.cui\obj\Debug\net45\de4dot.cui.sourcelink.json
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.cui\obj\Debug\net45\de4dot.cui.csproj.Up2Date
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.cui\obj\Debug\net45\de4dot.cui.dll
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.cui\obj\Debug\net45\de4dot.cui.pdb
+C:\Users\root\source\repos\de4dot\Debug\net45\de4dot.cui.dll
+C:\Users\root\source\repos\de4dot\Debug\net45\de4dot.cui.pdb
+C:\Users\root\source\repos\de4dot\de4dot.cui\obj\Debug\net45\de4dot.cui.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\de4dot\de4dot.cui\obj\Debug\net45\de4dot.cui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\de4dot\de4dot.cui\obj\Debug\net45\de4dot.cui.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\de4dot\de4dot.cui\obj\Debug\net45\de4dot.cui.AssemblyInfo.cs
+C:\Users\root\source\repos\de4dot\de4dot.cui\obj\Debug\net45\de4dot.cui.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\de4dot\de4dot.cui\obj\Debug\net45\de4dot.cui.csproj.Up2Date
+C:\Users\root\source\repos\de4dot\de4dot.cui\obj\Debug\net45\de4dot.cui.dll
+C:\Users\root\source\repos\de4dot\de4dot.cui\obj\Debug\net45\de4dot.cui.pdb

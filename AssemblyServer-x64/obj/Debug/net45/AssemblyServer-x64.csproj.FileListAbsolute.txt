@@ -1,0 +1,24 @@
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net45\AssemblyServer-x64.exe.config
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net45\AssemblyServer-x64.exe
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net45\AssemblyServer-x64.pdb
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer-x64\obj\Debug\net45\AssemblyServer-x64.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer-x64\obj\Debug\net45\AssemblyServer-x64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer-x64\obj\Debug\net45\AssemblyServer-x64.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer-x64\obj\Debug\net45\AssemblyServer-x64.AssemblyInfo.cs
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer-x64\obj\Debug\net45\AssemblyServer-x64.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer-x64\obj\Debug\net45\AssemblyServer-x64.sourcelink.json
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer-x64\obj\Debug\net45\Assembly.BAC82A5D.Up2Date
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer-x64\obj\Debug\net45\AssemblyServer-x64.exe
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer-x64\obj\Debug\net45\AssemblyServer-x64.pdb
+C:\Users\root\source\repos\de4dot\Debug\net45\AssemblyServer-x64.exe.config
+C:\Users\root\source\repos\de4dot\Debug\net45\AssemblyServer-x64.exe
+C:\Users\root\source\repos\de4dot\Debug\net45\AssemblyServer-x64.pdb
+C:\Users\root\source\repos\de4dot\AssemblyServer-x64\obj\Debug\net45\AssemblyServer-x64.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\de4dot\AssemblyServer-x64\obj\Debug\net45\AssemblyServer-x64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\de4dot\AssemblyServer-x64\obj\Debug\net45\AssemblyServer-x64.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\de4dot\AssemblyServer-x64\obj\Debug\net45\AssemblyServer-x64.AssemblyInfo.cs
+C:\Users\root\source\repos\de4dot\AssemblyServer-x64\obj\Debug\net45\AssemblyServer-x64.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\de4dot\AssemblyServer-x64\obj\Debug\net45\AssemblyServer-x64.sourcelink.json
+C:\Users\root\source\repos\de4dot\AssemblyServer-x64\obj\Debug\net45\Assembly.BAC82A5D.Up2Date
+C:\Users\root\source\repos\de4dot\AssemblyServer-x64\obj\Debug\net45\AssemblyServer-x64.exe
+C:\Users\root\source\repos\de4dot\AssemblyServer-x64\obj\Debug\net45\AssemblyServer-x64.pdb

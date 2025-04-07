@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "o11lOmh7C+0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.code\\de4dot.code.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\root\\.nuget\\packages\\dnlib\\4.4.0\\dnlib.4.4.0.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net45\\1.0.3\\microsoft.netframework.referenceassemblies.net45.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

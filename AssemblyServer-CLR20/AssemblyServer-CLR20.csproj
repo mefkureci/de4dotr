@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\De4DotCommon.props" />
+  <PropertyGroup>
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="dnlib" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AssemblyData\AssemblyData.csproj" />
+  </ItemGroup>
+</Project>

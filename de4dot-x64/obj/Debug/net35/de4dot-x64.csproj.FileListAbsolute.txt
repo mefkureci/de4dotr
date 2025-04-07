@@ -1,0 +1,20 @@
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net35\de4dot-x64.exe.config
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net35\de4dot-x64.exe
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net35\de4dot-x64.pdb
+C:\Users\root\source\repos\de4dot - Kopya\de4dot-x64\obj\Debug\net35\de4dot-x64.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\de4dot - Kopya\de4dot-x64\obj\Debug\net35\de4dot-x64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\de4dot - Kopya\de4dot-x64\obj\Debug\net35\de4dot-x64.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\de4dot - Kopya\de4dot-x64\obj\Debug\net35\de4dot-x64.AssemblyInfo.cs
+C:\Users\root\source\repos\de4dot - Kopya\de4dot-x64\obj\Debug\net35\de4dot-x64.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\de4dot - Kopya\de4dot-x64\obj\Debug\net35\de4dot-x64.sourcelink.json
+C:\Users\root\source\repos\de4dot - Kopya\de4dot-x64\obj\Debug\net35\de4dot-x64.csproj.Up2Date
+C:\Users\root\source\repos\de4dot - Kopya\de4dot-x64\obj\Debug\net35\de4dot-x64.exe
+C:\Users\root\source\repos\de4dot - Kopya\de4dot-x64\obj\Debug\net35\de4dot-x64.pdb
+C:\Users\root\source\repos\de4dot - Kopya\de4dot-x64\obj\Debug\net35\de4dot-x64.csproj.SuggestedBindingRedirects.cache
+C:\Users\root\source\repos\de4dot - Kopya\de4dot-x64\obj\Debug\net35\de4dot-x64.exe.config
+C:\Users\root\source\repos\de4dot\de4dot-x64\obj\Debug\net35\de4dot-x64.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\de4dot\de4dot-x64\obj\Debug\net35\de4dot-x64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\de4dot\de4dot-x64\obj\Debug\net35\de4dot-x64.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\de4dot\de4dot-x64\obj\Debug\net35\de4dot-x64.AssemblyInfo.cs
+C:\Users\root\source\repos\de4dot\de4dot-x64\obj\Debug\net35\de4dot-x64.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\de4dot\de4dot-x64\obj\Debug\net35\de4dot-x64.sourcelink.json

@@ -1,0 +1,22 @@
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net45\de4dot.mdecrypt.dll
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net45\de4dot.mdecrypt.pdb
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.mdecrypt\obj\Debug\net45\de4dot.mdecrypt.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.mdecrypt\obj\Debug\net45\de4dot.mdecrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.mdecrypt\obj\Debug\net45\de4dot.mdecrypt.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.mdecrypt\obj\Debug\net45\de4dot.mdecrypt.AssemblyInfo.cs
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.mdecrypt\obj\Debug\net45\de4dot.mdecrypt.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.mdecrypt\obj\Debug\net45\de4dot.mdecrypt.sourcelink.json
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.mdecrypt\obj\Debug\net45\de4dot.m.DCC98B30.Up2Date
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.mdecrypt\obj\Debug\net45\de4dot.mdecrypt.dll
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.mdecrypt\obj\Debug\net45\de4dot.mdecrypt.pdb
+C:\Users\root\source\repos\de4dot\Debug\net45\de4dot.mdecrypt.dll
+C:\Users\root\source\repos\de4dot\Debug\net45\de4dot.mdecrypt.pdb
+C:\Users\root\source\repos\de4dot\de4dot.mdecrypt\obj\Debug\net45\de4dot.mdecrypt.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\de4dot\de4dot.mdecrypt\obj\Debug\net45\de4dot.mdecrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\de4dot\de4dot.mdecrypt\obj\Debug\net45\de4dot.mdecrypt.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\de4dot\de4dot.mdecrypt\obj\Debug\net45\de4dot.mdecrypt.AssemblyInfo.cs
+C:\Users\root\source\repos\de4dot\de4dot.mdecrypt\obj\Debug\net45\de4dot.mdecrypt.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\de4dot\de4dot.mdecrypt\obj\Debug\net45\de4dot.mdecrypt.sourcelink.json
+C:\Users\root\source\repos\de4dot\de4dot.mdecrypt\obj\Debug\net45\de4dot.m.DCC98B30.Up2Date
+C:\Users\root\source\repos\de4dot\de4dot.mdecrypt\obj\Debug\net45\de4dot.mdecrypt.dll
+C:\Users\root\source\repos\de4dot\de4dot.mdecrypt\obj\Debug\net45\de4dot.mdecrypt.pdb

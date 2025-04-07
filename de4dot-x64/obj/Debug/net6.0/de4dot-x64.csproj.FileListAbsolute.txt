@@ -1,0 +1,17 @@
+C:\Users\root\source\repos\de4dot\Debug\net6.0\de4dot-x64.exe
+C:\Users\root\source\repos\de4dot\Debug\net6.0\de4dot-x64.dll.config
+C:\Users\root\source\repos\de4dot\Debug\net6.0\de4dot-x64.deps.json
+C:\Users\root\source\repos\de4dot\Debug\net6.0\de4dot-x64.runtimeconfig.json
+C:\Users\root\source\repos\de4dot\Debug\net6.0\de4dot-x64.dll
+C:\Users\root\source\repos\de4dot\Debug\net6.0\de4dot-x64.pdb
+C:\Users\root\source\repos\de4dot\de4dot-x64\obj\Debug\net6.0\de4dot-x64.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\de4dot\de4dot-x64\obj\Debug\net6.0\de4dot-x64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\de4dot\de4dot-x64\obj\Debug\net6.0\de4dot-x64.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\de4dot\de4dot-x64\obj\Debug\net6.0\de4dot-x64.AssemblyInfo.cs
+C:\Users\root\source\repos\de4dot\de4dot-x64\obj\Debug\net6.0\de4dot-x64.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\de4dot\de4dot-x64\obj\Debug\net6.0\de4dot-x64.csproj.Up2Date
+C:\Users\root\source\repos\de4dot\de4dot-x64\obj\Debug\net6.0\de4dot-x64.dll
+C:\Users\root\source\repos\de4dot\de4dot-x64\obj\Debug\net6.0\refint\de4dot-x64.dll
+C:\Users\root\source\repos\de4dot\de4dot-x64\obj\Debug\net6.0\de4dot-x64.pdb
+C:\Users\root\source\repos\de4dot\de4dot-x64\obj\Debug\net6.0\de4dot-x64.genruntimeconfig.cache
+C:\Users\root\source\repos\de4dot\de4dot-x64\obj\Debug\net6.0\ref\de4dot-x64.dll

@@ -1,0 +1,24 @@
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net35\AssemblyServer-CLR40.exe.config
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net35\AssemblyServer-CLR40.exe
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net35\AssemblyServer-CLR40.pdb
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer-CLR40\obj\Debug\net35\AssemblyServer-CLR40.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer-CLR40\obj\Debug\net35\AssemblyServer-CLR40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer-CLR40\obj\Debug\net35\AssemblyServer-CLR40.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer-CLR40\obj\Debug\net35\AssemblyServer-CLR40.AssemblyInfo.cs
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer-CLR40\obj\Debug\net35\AssemblyServer-CLR40.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer-CLR40\obj\Debug\net35\AssemblyServer-CLR40.sourcelink.json
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer-CLR40\obj\Debug\net35\Assembly.AA713BEA.Up2Date
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer-CLR40\obj\Debug\net35\AssemblyServer-CLR40.exe
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer-CLR40\obj\Debug\net35\AssemblyServer-CLR40.pdb
+C:\Users\root\source\repos\de4dot\Debug\net35\AssemblyServer-CLR40.exe.config
+C:\Users\root\source\repos\de4dot\Debug\net35\AssemblyServer-CLR40.exe
+C:\Users\root\source\repos\de4dot\Debug\net35\AssemblyServer-CLR40.pdb
+C:\Users\root\source\repos\de4dot\AssemblyServer-CLR40\obj\Debug\net35\AssemblyServer-CLR40.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\de4dot\AssemblyServer-CLR40\obj\Debug\net35\AssemblyServer-CLR40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\de4dot\AssemblyServer-CLR40\obj\Debug\net35\AssemblyServer-CLR40.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\de4dot\AssemblyServer-CLR40\obj\Debug\net35\AssemblyServer-CLR40.AssemblyInfo.cs
+C:\Users\root\source\repos\de4dot\AssemblyServer-CLR40\obj\Debug\net35\AssemblyServer-CLR40.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\de4dot\AssemblyServer-CLR40\obj\Debug\net35\AssemblyServer-CLR40.sourcelink.json
+C:\Users\root\source\repos\de4dot\AssemblyServer-CLR40\obj\Debug\net35\Assembly.AA713BEA.Up2Date
+C:\Users\root\source\repos\de4dot\AssemblyServer-CLR40\obj\Debug\net35\AssemblyServer-CLR40.exe
+C:\Users\root\source\repos\de4dot\AssemblyServer-CLR40\obj\Debug\net35\AssemblyServer-CLR40.pdb

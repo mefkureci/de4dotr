@@ -1,0 +1,24 @@
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net35\AssemblyServer.exe.config
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net35\AssemblyServer.exe
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net35\AssemblyServer.pdb
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer\obj\Debug\net35\AssemblyServer.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer\obj\Debug\net35\AssemblyServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer\obj\Debug\net35\AssemblyServer.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer\obj\Debug\net35\AssemblyServer.AssemblyInfo.cs
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer\obj\Debug\net35\AssemblyServer.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer\obj\Debug\net35\AssemblyServer.sourcelink.json
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer\obj\Debug\net35\Assembly.88AEB4CC.Up2Date
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer\obj\Debug\net35\AssemblyServer.exe
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyServer\obj\Debug\net35\AssemblyServer.pdb
+C:\Users\root\source\repos\de4dot\Debug\net35\AssemblyServer.exe.config
+C:\Users\root\source\repos\de4dot\Debug\net35\AssemblyServer.exe
+C:\Users\root\source\repos\de4dot\Debug\net35\AssemblyServer.pdb
+C:\Users\root\source\repos\de4dot\AssemblyServer\obj\Debug\net35\AssemblyServer.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\de4dot\AssemblyServer\obj\Debug\net35\AssemblyServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\de4dot\AssemblyServer\obj\Debug\net35\AssemblyServer.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\de4dot\AssemblyServer\obj\Debug\net35\AssemblyServer.AssemblyInfo.cs
+C:\Users\root\source\repos\de4dot\AssemblyServer\obj\Debug\net35\AssemblyServer.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\de4dot\AssemblyServer\obj\Debug\net35\AssemblyServer.sourcelink.json
+C:\Users\root\source\repos\de4dot\AssemblyServer\obj\Debug\net35\Assembly.88AEB4CC.Up2Date
+C:\Users\root\source\repos\de4dot\AssemblyServer\obj\Debug\net35\AssemblyServer.exe
+C:\Users\root\source\repos\de4dot\AssemblyServer\obj\Debug\net35\AssemblyServer.pdb

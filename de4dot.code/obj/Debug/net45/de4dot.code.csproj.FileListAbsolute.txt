@@ -1,0 +1,21 @@
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net45\de4dot.code.dll
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net45\de4dot.code.pdb
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.code\obj\Debug\net45\de4dot.code.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.code\obj\Debug\net45\de4dot.code.deobfuscators.Agile_NET.vm.v2.CsvmResources.resources
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.code\obj\Debug\net45\de4dot.code.csproj.GenerateResource.cache
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.code\obj\Debug\net45\de4dot.code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.code\obj\Debug\net45\de4dot.code.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.code\obj\Debug\net45\de4dot.code.AssemblyInfo.cs
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.code\obj\Debug\net45\de4dot.code.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.code\obj\Debug\net45\de4dot.code.sourcelink.json
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.code\obj\Debug\net45\de4dot.c.4E4E6C4E.Up2Date
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.code\obj\Debug\net45\de4dot.code.dll
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.code\obj\Debug\net45\de4dot.code.pdb
+C:\Users\root\source\repos\de4dot\de4dot.code\obj\Debug\net45\de4dot.code.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\de4dot\de4dot.code\obj\Debug\net45\de4dot.code.deobfuscators.Agile_NET.vm.v2.CsvmResources.resources
+C:\Users\root\source\repos\de4dot\de4dot.code\obj\Debug\net45\de4dot.code.csproj.GenerateResource.cache
+C:\Users\root\source\repos\de4dot\de4dot.code\obj\Debug\net45\de4dot.code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\de4dot\de4dot.code\obj\Debug\net45\de4dot.code.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\de4dot\de4dot.code\obj\Debug\net45\de4dot.code.AssemblyInfo.cs
+C:\Users\root\source\repos\de4dot\de4dot.code\obj\Debug\net45\de4dot.code.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\de4dot\de4dot.code\obj\Debug\net45\de4dot.code.sourcelink.json

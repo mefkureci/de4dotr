@@ -1,0 +1,22 @@
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net45\de4dot.blocks.dll
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net45\de4dot.blocks.pdb
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.blocks\obj\Debug\net45\de4dot.blocks.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.blocks\obj\Debug\net45\de4dot.blocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.blocks\obj\Debug\net45\de4dot.blocks.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.blocks\obj\Debug\net45\de4dot.blocks.AssemblyInfo.cs
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.blocks\obj\Debug\net45\de4dot.blocks.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.blocks\obj\Debug\net45\de4dot.blocks.sourcelink.json
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.blocks\obj\Debug\net45\de4dot.b.C67E8AB1.Up2Date
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.blocks\obj\Debug\net45\de4dot.blocks.dll
+C:\Users\root\source\repos\de4dot - Kopya\de4dot.blocks\obj\Debug\net45\de4dot.blocks.pdb
+C:\Users\root\source\repos\de4dot\Debug\net45\de4dot.blocks.dll
+C:\Users\root\source\repos\de4dot\Debug\net45\de4dot.blocks.pdb
+C:\Users\root\source\repos\de4dot\de4dot.blocks\obj\Debug\net45\de4dot.blocks.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\de4dot\de4dot.blocks\obj\Debug\net45\de4dot.blocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\de4dot\de4dot.blocks\obj\Debug\net45\de4dot.blocks.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\de4dot\de4dot.blocks\obj\Debug\net45\de4dot.blocks.AssemblyInfo.cs
+C:\Users\root\source\repos\de4dot\de4dot.blocks\obj\Debug\net45\de4dot.blocks.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\de4dot\de4dot.blocks\obj\Debug\net45\de4dot.blocks.sourcelink.json
+C:\Users\root\source\repos\de4dot\de4dot.blocks\obj\Debug\net45\de4dot.b.C67E8AB1.Up2Date
+C:\Users\root\source\repos\de4dot\de4dot.blocks\obj\Debug\net45\de4dot.blocks.dll
+C:\Users\root\source\repos\de4dot\de4dot.blocks\obj\Debug\net45\de4dot.blocks.pdb

@@ -1,0 +1,237 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "dnlib/4.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/dnlib.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/dnlib.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "AssemblyData/3.1.41592.3405": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5",
+        "dependencies": {
+          "de4dot.blocks": "3.1.41592.3405",
+          "de4dot.mdecrypt": "3.1.41592.3405",
+          "dnlib": "4.4.0"
+        },
+        "compile": {
+          "bin/placeholder/AssemblyData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AssemblyData.dll": {}
+        }
+      },
+      "de4dot.blocks/3.1.41592.3405": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5",
+        "dependencies": {
+          "dnlib": "4.4.0"
+        },
+        "compile": {
+          "bin/placeholder/de4dot.blocks.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/de4dot.blocks.dll": {}
+        }
+      },
+      "de4dot.code/3.1.41592.3405": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5",
+        "dependencies": {
+          "AssemblyData": "3.1.41592.3405",
+          "de4dot.blocks": "3.1.41592.3405",
+          "de4dot.mdecrypt": "3.1.41592.3405",
+          "dnlib": "4.4.0"
+        },
+        "compile": {
+          "bin/placeholder/de4dot.code.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/de4dot.code.dll": {}
+        }
+      },
+      "de4dot.cui/3.1.41592.3405": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5",
+        "dependencies": {
+          "de4dot.blocks": "3.1.41592.3405",
+          "de4dot.code": "3.1.41592.3405",
+          "dnlib": "4.4.0"
+        },
+        "compile": {
+          "bin/placeholder/de4dot.cui.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/de4dot.cui.dll": {}
+        }
+      },
+      "de4dot.mdecrypt/3.1.41592.3405": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5",
+        "dependencies": {
+          "de4dot.blocks": "3.1.41592.3405",
+          "dnlib": "4.4.0"
+        },
+        "compile": {
+          "bin/placeholder/de4dot.mdecrypt.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/de4dot.mdecrypt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dnlib/4.4.0": {
+      "sha512": "cKHI720q+zfEEvzklWVGt6B0TH3AibAyJbpUJl4U6KvTP13tycfnqJpkGHRZ/oQ45BTIoIxIwltHIJVDN+iCqQ==",
+      "type": "package",
+      "path": "dnlib/4.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "dnlib.4.4.0.nupkg.sha512",
+        "dnlib.nuspec",
+        "lib/net35/dnlib.dll",
+        "lib/net35/dnlib.xml",
+        "lib/net45/dnlib.dll",
+        "lib/net45/dnlib.xml",
+        "lib/net6.0/dnlib.dll",
+        "lib/net6.0/dnlib.xml",
+        "lib/netstandard2.0/dnlib.dll",
+        "lib/netstandard2.0/dnlib.xml"
+      ]
+    },
+    "AssemblyData/3.1.41592.3405": {
+      "type": "project",
+      "path": "../AssemblyData/AssemblyData.csproj",
+      "msbuildProject": "../AssemblyData/AssemblyData.csproj"
+    },
+    "de4dot.blocks/3.1.41592.3405": {
+      "type": "project",
+      "path": "../de4dot.blocks/de4dot.blocks.csproj",
+      "msbuildProject": "../de4dot.blocks/de4dot.blocks.csproj"
+    },
+    "de4dot.code/3.1.41592.3405": {
+      "type": "project",
+      "path": "../de4dot.code/de4dot.code.csproj",
+      "msbuildProject": "../de4dot.code/de4dot.code.csproj"
+    },
+    "de4dot.cui/3.1.41592.3405": {
+      "type": "project",
+      "path": "../de4dot.cui/de4dot.cui.csproj",
+      "msbuildProject": "../de4dot.cui/de4dot.cui.csproj"
+    },
+    "de4dot.mdecrypt/3.1.41592.3405": {
+      "type": "project",
+      "path": "../de4dot.mdecrypt/de4dot.mdecrypt.csproj",
+      "msbuildProject": "../de4dot.mdecrypt/de4dot.mdecrypt.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "de4dot.cui >= 3.1.41592.3405",
+      "dnlib >= 4.4.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\root\\.nuget\\packages\\": {},
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "3.1.41592.3405",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot-x64\\de4dot-x64.csproj",
+      "projectName": "de4dot-x64",
+      "projectPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot-x64\\de4dot-x64.csproj",
+      "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot-x64\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "centralPackageVersionsManagementEnabled": true,
+      "CentralPackageTransitivePinningEnabled": true,
+      "fallbackFolders": [
+        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "c:\\program files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.cui\\de4dot.cui.csproj": {
+              "projectPath": "C:\\Users\\root\\source\\repos\\de4dot\\de4dot.cui\\de4dot.cui.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "noWarn": [
+          "NU1507"
+        ],
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "dnlib": {
+            "target": "Package",
+            "version": "[4.4.0, )",
+            "versionCentrallyManaged": true
+          }
+        },
+        "centralPackageVersions": {
+          "dnlib": "4.4.0",
+          "System.Drawing.Common": "4.7.0"
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

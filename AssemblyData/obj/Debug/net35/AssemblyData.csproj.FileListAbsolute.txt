@@ -1,0 +1,22 @@
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net35\AssemblyData.dll
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net35\AssemblyData.pdb
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyData\obj\Debug\net35\AssemblyData.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyData\obj\Debug\net35\AssemblyData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyData\obj\Debug\net35\AssemblyData.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyData\obj\Debug\net35\AssemblyData.AssemblyInfo.cs
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyData\obj\Debug\net35\AssemblyData.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyData\obj\Debug\net35\AssemblyData.sourcelink.json
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyData\obj\Debug\net35\Assembly.C3674546.Up2Date
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyData\obj\Debug\net35\AssemblyData.dll
+C:\Users\root\source\repos\de4dot - Kopya\AssemblyData\obj\Debug\net35\AssemblyData.pdb
+C:\Users\root\source\repos\de4dot\Debug\net35\AssemblyData.dll
+C:\Users\root\source\repos\de4dot\Debug\net35\AssemblyData.pdb
+C:\Users\root\source\repos\de4dot\AssemblyData\obj\Debug\net35\AssemblyData.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\de4dot\AssemblyData\obj\Debug\net35\AssemblyData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\de4dot\AssemblyData\obj\Debug\net35\AssemblyData.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\de4dot\AssemblyData\obj\Debug\net35\AssemblyData.AssemblyInfo.cs
+C:\Users\root\source\repos\de4dot\AssemblyData\obj\Debug\net35\AssemblyData.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\de4dot\AssemblyData\obj\Debug\net35\AssemblyData.sourcelink.json
+C:\Users\root\source\repos\de4dot\AssemblyData\obj\Debug\net35\Assembly.C3674546.Up2Date
+C:\Users\root\source\repos\de4dot\AssemblyData\obj\Debug\net35\AssemblyData.dll
+C:\Users\root\source\repos\de4dot\AssemblyData\obj\Debug\net35\AssemblyData.pdb

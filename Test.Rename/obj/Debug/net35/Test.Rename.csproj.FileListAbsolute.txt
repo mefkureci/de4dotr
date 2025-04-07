@@ -1,0 +1,24 @@
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net35\Test.Rename.exe.config
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net35\Test.Rename.exe
+C:\Users\root\source\repos\de4dot - Kopya\Debug\net35\Test.Rename.pdb
+C:\Users\root\source\repos\de4dot - Kopya\Test.Rename\obj\Debug\net35\Test.Rename.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\de4dot - Kopya\Test.Rename\obj\Debug\net35\Test.Rename.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\de4dot - Kopya\Test.Rename\obj\Debug\net35\Test.Rename.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\de4dot - Kopya\Test.Rename\obj\Debug\net35\Test.Rename.AssemblyInfo.cs
+C:\Users\root\source\repos\de4dot - Kopya\Test.Rename\obj\Debug\net35\Test.Rename.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\de4dot - Kopya\Test.Rename\obj\Debug\net35\Test.Rename.sourcelink.json
+C:\Users\root\source\repos\de4dot - Kopya\Test.Rename\obj\Debug\net35\Test.Ren.B9E84ADF.Up2Date
+C:\Users\root\source\repos\de4dot - Kopya\Test.Rename\obj\Debug\net35\Test.Rename.exe
+C:\Users\root\source\repos\de4dot - Kopya\Test.Rename\obj\Debug\net35\Test.Rename.pdb
+C:\Users\root\source\repos\de4dot\Debug\net35\Test.Rename.exe.config
+C:\Users\root\source\repos\de4dot\Debug\net35\Test.Rename.exe
+C:\Users\root\source\repos\de4dot\Debug\net35\Test.Rename.pdb
+C:\Users\root\source\repos\de4dot\Test.Rename\obj\Debug\net35\Test.Rename.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\de4dot\Test.Rename\obj\Debug\net35\Test.Rename.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\de4dot\Test.Rename\obj\Debug\net35\Test.Rename.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\de4dot\Test.Rename\obj\Debug\net35\Test.Rename.AssemblyInfo.cs
+C:\Users\root\source\repos\de4dot\Test.Rename\obj\Debug\net35\Test.Rename.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\de4dot\Test.Rename\obj\Debug\net35\Test.Rename.sourcelink.json
+C:\Users\root\source\repos\de4dot\Test.Rename\obj\Debug\net35\Test.Ren.B9E84ADF.Up2Date
+C:\Users\root\source\repos\de4dot\Test.Rename\obj\Debug\net35\Test.Rename.exe
+C:\Users\root\source\repos\de4dot\Test.Rename\obj\Debug\net35\Test.Rename.pdb
